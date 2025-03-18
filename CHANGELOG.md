@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-03-18)
+
+<section class="features">
+
+### Features
+
+-   [`6373477`](https://github.com/stdlib-js/stdlib/commit/63734778216d7ccd30441d14d81bbe464474432e) - add accessor protocol support and refactor `stats/base/nanvarianceyc` [(#6143)](https://github.com/stdlib-js/stdlib/pull/6143)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5678](https://github.com/stdlib-js/stdlib/issues/5678)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6373477`](https://github.com/stdlib-js/stdlib/commit/63734778216d7ccd30441d14d81bbe464474432e) - **feat:** add accessor protocol support and refactor `stats/base/nanvarianceyc` [(#6143)](https://github.com/stdlib-js/stdlib/pull/6143) _(by Rahul Kumar, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Rahul Kumar
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
